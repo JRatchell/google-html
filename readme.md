@@ -1,0 +1,1 @@
+This project is an attempt to recreate Google's home page with purely HTML
